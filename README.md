@@ -6,7 +6,9 @@ Predict if the Merchant is Fraudster or not for an e-commerce client
 
 You are expected to create an analytical and modelling framework to predict the Merchant Fraudulency(yes/no) based on the quantitative and qualitative features provided in the dataset while answering other questions too cited below.
 
-II. Thedatasetsareprovidedascitedbelow: Target attribute: "fraudster" (yes – 1, no – 0)
+II. The data sets are provided as cited below: 
+
+Target attribute: "fraudster" (yes – 1, no – 0)
 
 Train:
 
